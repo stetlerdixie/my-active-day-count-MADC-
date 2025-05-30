@@ -4,7 +4,7 @@
 
 | Day | Task Description |
 | --- | --------------- |
-| 1 | |
+| 1 | |Path Of Soneium End
 | 2 | |
 | 3 | |
 | 4 | |
