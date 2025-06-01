@@ -5,7 +5,7 @@
 | Day | Task Description |
 | --- | --------------- |
 | 1 | |Path Of Soneium End
-| 2 | |
+| 2 | |01/006/2025
 | 3 | |
 | 4 | |
 | 5 | |
