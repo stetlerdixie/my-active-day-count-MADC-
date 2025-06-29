@@ -7,7 +7,7 @@
 | 1 | |Path Of Soneium End
 | 2 | |01/006/2025
 | 3 | | 3 day done
-| 4 | |
+| 4 | |count Pharos Multy 13
 | 5 | |
 | 6 | |
 | 7 | |
